@@ -78,5 +78,8 @@ public class ExcelController {
   void method1() {
 	  System.out.println("hi");
   }
+void method2(){
+System.out.println("hi");
+}
 
 }
