@@ -75,5 +75,8 @@ public class ExcelController {
         .contentType(MediaType.parseMediaType("application/vnd.ms-excel"))
         .body(file);
   }
+  void method1() {
+	  System.out.println("hi");
+  }
 
 }
