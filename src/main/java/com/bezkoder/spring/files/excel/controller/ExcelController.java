@@ -92,5 +92,7 @@ System.out.println("hi");
 
 
 
-
+void method22() {
+	System.out.println("HI");
+	}
 }
